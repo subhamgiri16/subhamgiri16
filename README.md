@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Subham Giri! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/subhamgiri16/SubhamGiri_16.png" alt="Banner Image" width="100%">
+  <img src="https://github.com/subhamgiri16/subhamgiri16/blob/main/Subham%20Giri_16.png" alt="Banner Image" width="100%">
 </p>
 
 ## 👨‍💻 **About Me**
