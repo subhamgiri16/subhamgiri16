@@ -44,14 +44,15 @@
 📌 [**Personal Portfolio**](https://github.com/subhamgiri16/Personal-Portfolio-Website-2) - My online portfolio  
 📌 [**3D Flipbook**](https://github.com/subhamgiri16/3D-Flipbook) - Interactive 3D flipbook  
 📌 [**Graphics Gallery**](https://github.com/subhamgiri16/Graphics-Gallery) - UI/UX and graphic design showcase  
-
+📌 [**Firebase Authentication**](https://github.com/subhamgiri16/Firebase-Auth)) - Firebase Authentication
+📌 [** Django_Authentication**](https://github.com/subhamgiri16/Django_Authentication))) -  Django_Authentication
 ---
 
 ## 🌎 **Connect with Me**
 📧 **Email:** subhamsg2000@gmail.com  
 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourname)  
 🌐 **Portfolio:** [subhamgiri.me](https://subhamgiri.me)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+🐦 **Twitter:** [Subham Giri](https://x.com/Subham_1608)  
 
 ---
 
